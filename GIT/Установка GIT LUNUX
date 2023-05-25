@@ -1,0 +1,9 @@
+1. git --version
+Если версия git не найдена установите
+2. sudo apt install git
+Устанавливает git на linux
+3. git config --global user.name 'Имя пользователя'
+git config --global user.email 'EMAIL пользователя'
+4. git config --list
+Проверка, установились ли данные настройки
+зцв
