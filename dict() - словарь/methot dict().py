@@ -95,4 +95,5 @@ values_name = dict_name_1.values()
 
 # 16. Сложение словарей в один
 update_dict = dict_name_1 | dict_auto_1
-# Вывод: {'Alex': 23, 'George': 20, 'Elena': 31, 'Валерий': 43, 'lada': 2, 'volvo': 2, 'bmw': 2}
+# Вывод: {'Alex': 23, 'George': 20, 'Elena': 31, 'Валерий': 43, 'lada': 2, 'volvo': 2, 'bmw': 2
+print('ghbdtn')
