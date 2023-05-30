@@ -1,1 +1,1 @@
-print('Hello world')
+print('Привет как у тебя дела?')
